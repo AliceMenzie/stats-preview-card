@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL ](https://github.com/AliceMenzie/stats-preview-card)
-- Live Site URL: [live site](https://alicemenzie.github.io/stats-preview-card/)
+- Solution URL: [Code Solution](https://github.com/AliceMenzie/stats-preview-card)
+- Live Site URL: [Live Site](https://alicemenzie.github.io/stats-preview-card/)
 
 ## My process
 
